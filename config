@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[receive]
+	denyCurrentBranch = updateInstead
+[gc]
+	auto = 0
